@@ -35,7 +35,7 @@ Para conseguir a chave da API, siga os passos abaixo para configurar:
 1. Acesse o [console da Groq](https://console.groq.com/keys).
 2. Faça login na sua conta.
 3. Vá até a seção API Keys (chaves de API).
-4. Crie uma nova chave, copie o valor gerado e cole no 
+4. Crie uma nova chave, copie o valor gerado e cole no: 
 
 ``` bash 
 api_key = "SUA_CHAVE_API_AQUI"
