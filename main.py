@@ -2,7 +2,9 @@ import os
 from langchain.prompts import PromptTemplate
 from groq import Groq
 
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+api_key = "SUA_CHAVE_API_AQUI"
+
+client = Groq(api_key=api_key)
 
 model = "llama3-8b-8192"
 
